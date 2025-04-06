@@ -19,3 +19,4 @@ __pycache__/
 *.tar.lzop
 *.tar.lzma2
 *.tar.lz4c
+*.csv
